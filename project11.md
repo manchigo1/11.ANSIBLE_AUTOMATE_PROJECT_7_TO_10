@@ -18,6 +18,7 @@ On the Jenkins server, create a job called ansible and configure automatic build
 
 Test configuration by updating a README file on github. 
 ![JENS SUCCESS](./images/JENS%20SUCCESS.png)
+![SUCCES](./images/SUCCES.png)
 
 Prepare Development using VSCode
 
